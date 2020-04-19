@@ -29,19 +29,18 @@
 $ jupyter notebook
 ```
 
+> open `wrangle_act.ipynb` in browser
+
 ---
 
 ## Installation
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/UltraViolentLight/Wrangle-We-Rate-Dogs`
+- Clone this repo to your local machine using `git clone https://github.com/UltraViolentLight/Wrangle-We-Rate-Dogs`
 
 ### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install the following packages/software first
+> update and install the following python packages/software first
 
 - Jupyter Notebook
 - Python 3.6
